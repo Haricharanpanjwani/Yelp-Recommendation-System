@@ -1,0 +1,28 @@
+#searchtable{
+	 border: 1px solid black;
+	 margin: 5px;
+	 width: 50%;
+	 height: 50px;
+	 padding: 15px;
+
+	 
+	 
+}
+#searchtable th{
+	border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #2B65EC;
+    color: white;
+}
+
+#searchtable tr:nth-child(even){background-color: #f2f2f2}
+
+#searchtable tr:hover {background-color: #FFCBA4;}
+
+#entersearch{
+	background-color: lightblue;
+	
+}

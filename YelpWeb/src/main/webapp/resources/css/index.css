@@ -1,0 +1,57 @@
+body{
+	padding-top: 0px;
+}
+#main{
+	background-color: #ccc;
+	}
+#seachInput{
+	width:200px;
+}
+.navbar-brand
+{
+	font-style: white;
+}
+.nav navbar-nav{
+	background-color: blue;
+}
+
+#p{
+	font-style: blue;
+}
+.m_login_header{
+ background-color: #5cb85c
+}
+.m_login_body{
+	background-color: #FFFFF0;
+}
+.m_login_footer{
+	background-color: #F2F2F2;
+}
+.m1_modal_header{
+	background-color:#D6C537;
+}
+.m1_modal_body{
+	background-color: #FFF68F;
+}
+.m1_modal_footer{
+	background-color: #F3E88E;
+}
+.m2_modal_footer{
+	background-color: #F5F5DC;
+}
+.well_footer{
+	background-color: #F4A460;
+}
+#success_message{ display: none;}
+
+#my-navbar{
+	background-color: #FF0000;
+}
+
+.jumbotron{
+	margin-top: 0px;
+}
+#navbar-collapse{
+	font-style: bold;
+	
+}
